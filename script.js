@@ -15,7 +15,7 @@ const menuItems = {
         { name: "Smoothie", description: "Morango, leite, Gelo, Açucar, Banana", price: 60, image: "https://png.pngtree.com/png-clipart/20231107/original/pngtree-strawberry-smoothie-isolated-breakfast-picture-image_13238464.png" },
         { name: "Sumo de Laranja", description: "Limão, Gelo, Grãos de Café, Açucar, Gasosa", price: 50, image: "https://static.vecteezy.com/system/resources/previews/024/849/168/non_2x/fresh-orange-juice-with-fruits-transparent-background-png.png    " },
     ],
-    acompanhamentos: [
+    adicional: [
         { name: "Atomic Fries", description: "Batatas fritas especiais", price: 50, image: "https://png.pngtree.com/element_pic/00/16/08/0657a4e9b377d0d.png" },
         { name: "Up 'n' Nuggets", description: "Molho Cocktail, Asinhas de Frango", price: 50, image: "https://png.pngtree.com/png-clipart/20250515/original/pngtree-fried-chicken-nuggets-in-red-white-striped-box-isolated-vector-illustration-png-image_20984324.png" },
         { name: "Onion Rings", description: "Cebola, Molho Cocktail", price: 50, image: "https://imagensempng.com.br/wp-content/uploads/2021/08/05-29.png" },
@@ -30,7 +30,7 @@ const menuItems = {
 const DELIVERY_FEE = 100.00;
 
 function generateMenu() {
-    const categories = ['hamburgueres', 'sobremesas', 'bebidas', 'acompanhamentos', 'menus'];
+    const categories = ['hamburgueres', 'sobremesas', 'bebidas', 'adicional', 'menus'];
     categories.forEach(category => {
         const categoryDiv = document.getElementById(category);
         menuItems[category].forEach((item, index) => {
