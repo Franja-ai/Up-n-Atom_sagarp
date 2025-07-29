@@ -1,6 +1,6 @@
 const menuItems = {
     hamburger: [
-        { name: "Smoke 'n' Crunch", description: "Bacon, Hambúrger de Frango, Pão de Hambúrger, Cheddar, Carne Porco e Molho Cocktail", price: 120, image: "https://png.pngtree.com/png-vector/20201224/ourmid/pngtree-ai-illustration-hamburger-hand-drawn-burger-png-png-image_2618511.jpg" },
+        { name: "Smoke 'n' Crunch", description: "Bacon, Hambúrger de Frango, Pão de Hambúrger, Cheddar, Carne Porco e Molho Cocktail", price: 120, image: "https://images.vexels.com/media/users/3/152411/isolated/preview/4a22d435331dde73ae0f1cebbdbaacff-icone-de-hamburguer-duplo.png" },
         { name: "Golden Cruncher", description: "Cebola, Pepino, Hambúrguer de Frango, Alface, Cheddar e Pão de Hambúrguer", price: 110, image: "https://static.vecteezy.com/system/resources/previews/050/142/966/non_2x/cartoon-style-3d-chicken-burger-icon-isolated-on-transparent-background-cutout-png.png" },
         { name: "Green Reactortor", description: "Cebola, Pepino, Abacate, Molho Cokctail, Alface e Pão de Hambúrguer", price: 110, image: "https://png.pngtree.com/png-clipart/20241230/original/pngtree-3d-vegan-burger-with-avocado-on-transparent-background-png-image_18283109.png" },
         { name: "Double Boom", description: "Cebola, Pepino, Hambúrguer de  Frango, Alface, Cheddar, Pão de Hambúrguer", price: 90, image: "https://png.pngtree.com/png-clipart/20250514/original/pngtree-double-cheeseburger-with-lettuce-and-tomato-png-image_20958735.png" },
