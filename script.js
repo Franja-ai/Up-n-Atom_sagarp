@@ -1,5 +1,5 @@
 const menuItems = {
-    hamburgueres: [
+    hamburger: [
         { name: "Smoke 'n' Crunch", description: "Bacon, Hambúrger de Frango, Pão de Hambúrger, Cheddar, Carne Porco e Molho Cocktail", price: 120, image: "https://png.pngtree.com/png-vector/20201224/ourmid/pngtree-ai-illustration-hamburger-hand-drawn-burger-png-png-image_2618511.jpg" },
         { name: "Golden Cruncher", description: "Cebola, Pepino, Hambúrguer de Frango, Alface, Cheddar e Pão de Hambúrguer", price: 110, image: "https://static.vecteezy.com/system/resources/previews/050/142/966/non_2x/cartoon-style-3d-chicken-burger-icon-isolated-on-transparent-background-cutout-png.png" },
         { name: "Green Reactortor", description: "Cebola, Pepino, Abacate, Molho Cokctail, Alface e Pão de Hambúrguer", price: 110, image: "https://png.pngtree.com/png-clipart/20241230/original/pngtree-3d-vegan-burger-with-avocado-on-transparent-background-png-image_18283109.png" },
@@ -30,7 +30,7 @@ const menuItems = {
 const DELIVERY_FEE = 100.00;
 
 function generateMenu() {
-    const categories = ['hamburgueres', 'sobremesas', 'bebidas', 'adicional', 'menus'];
+    const categories = ['hamburger', 'sobremesas', 'bebidas', 'adicional', 'menus'];
     categories.forEach(category => {
         const categoryDiv = document.getElementById(category);
         menuItems[category].forEach((item, index) => {
