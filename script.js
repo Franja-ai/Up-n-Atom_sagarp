@@ -21,9 +21,9 @@ const menuItems = {
         { name: "Onion Rings", description: "Cebola, Molho Cocktail", price: 50, image: "https://imagensempng.com.br/wp-content/uploads/2021/08/05-29.png" },
     ],
     menus: [
-        { name: "Smoke 'n' Brunch", description: "Waffle baunilha, Atomic fries, Cola", price: 180, image: "smoke_n_brunch.jpg" },
-        { name: "Up n Ham", description: "Baguete com presunto", price: 160, image: "ham_baguete.jpg" },
-        { name: "Golden Cruncher Combo", description: "Golden Cruncher, Cheesecake Morango, Atomic Fries, Cola", price: 150, image: "golden_cruncher_combo.jpg" },
+        { name: "Smoke 'n' Brunch", description: "Waffle baunilha, Atomic fries, Cola", price: 180, image: "https://i.ibb.co/vCpfj8xY/1.png" },
+        { name: "Up n Ham", description: "Baguete com presunto", price: 160, image: "https://i.ibb.co/tp5KcTww/2.png" },
+        { name: "Golden Cruncher Combo", description: "Golden Cruncher, Cheesecake Morango, Atomic Fries, Cola", price: 150, image: "https://i.ibb.co/rRB6sz3j/3.png" },
     ],
 };
 
