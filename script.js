@@ -13,7 +13,7 @@ const menuItems = {
     bebidas: [
         { name: "Cola", description: "Café, Gelo, Gasosa, Limão,  Açucar", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
         { name: "Smoothie", description: "Morango, leite, Gelo, Açucar, Banana", price: 60, image: "https://png.pngtree.com/png-clipart/20231107/original/pngtree-strawberry-smoothie-isolated-breakfast-picture-image_13238464.png" },
-        { name: "Sumo de Laranja", description: "Limão, Gelo, Grãos de Café, Açucar, Gasosa", price: 50, image: "https://static.vecteezy.com/system/resources/previews/024/849/168/non_2x/fresh-orange-juice-with-fruits-transparent-background-png.png    " },
+        { name: "Sumo de Laranja", description: "Laranja, Gelo, Hortelã", price: 50, image: "https://static.vecteezy.com/system/resources/previews/024/849/168/non_2x/fresh-orange-juice-with-fruits-transparent-background-png.png    " },
     ],
     adicional: [
         { name: "Atomic Fries", description: "Batatas fritas especiais", price: 50, image: "https://png.pngtree.com/element_pic/00/16/08/0657a4e9b377d0d.png" },
