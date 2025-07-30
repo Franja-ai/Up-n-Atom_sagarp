@@ -11,7 +11,7 @@ const menuItems = {
         { name: "Gelado Cookies e Manga", description: "Gelado de Morango, Bolacha e Morango", price: 60, image: "https://png.pngtree.com/png-vector/20240801/ourmid/pngtree-delicious-cookies-and-cream-recipes-to-try-at-home-png-image_13324400.png" },
     ],
     bebidas: [
-        { name: "Cola", description: "Laranja, Gelo, Hortelã", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
+        { name: "Cola", description: "Café, Gelo, Gasosa, Limão,  Açucar", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
         { name: "Smoothie", description: "Morango, leite, Gelo, Açucar, Banana", price: 60, image: "https://png.pngtree.com/png-clipart/20231107/original/pngtree-strawberry-smoothie-isolated-breakfast-picture-image_13238464.png" },
         { name: "Sumo de Laranja", description: "Limão, Gelo, Grãos de Café, Açucar, Gasosa", price: 50, image: "https://static.vecteezy.com/system/resources/previews/024/849/168/non_2x/fresh-orange-juice-with-fruits-transparent-background-png.png    " },
     ],
