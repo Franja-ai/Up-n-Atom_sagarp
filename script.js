@@ -12,6 +12,7 @@ const menuItems = {
     ],
     bebidas: [
         { name: "Cola", description: "Café, Gelo, Gasosa, Limão,  Açucar", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
+        { name: "Café", description: "Café", price: 60, image: "https://static.vecteezy.com/system/resources/thumbnails/023/742/327/small_2x/latte-coffee-isolated-illustration-ai-generative-free-png.png" },
         { name: "Smoothie", description: "Morango, leite, Gelo, Açucar, Banana", price: 60, image: "https://png.pngtree.com/png-clipart/20231107/original/pngtree-strawberry-smoothie-isolated-breakfast-picture-image_13238464.png" },
         { name: "Sumo de Laranja", description: "Laranja, Gelo, Hortelã", price: 50, image: "https://static.vecteezy.com/system/resources/previews/024/849/168/non_2x/fresh-orange-juice-with-fruits-transparent-background-png.png    " },
     ],
