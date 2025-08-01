@@ -1,73 +1,57 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<header>
-    <h1>Up-N-Atom</h1>
-    <img src="https://i.ibb.co/cczkLg3p/principal.png" alt="" style="width: 1920px; height: 1080px;">
-    <div class="header-decoration"></div>
-</header>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu Up-N-Atom</title>
+    <title>Up-N-Atom</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Up-N-Atom</h1>
-            <div class="header-decoration">
-                <img src=""Burger Logo" class="header-logo">
-            </div>
-        </header>
-        <section id="menu">
-            <div id="hamburger" class="category">
-                <h2>hambúrger</h2>
-                <!-- Itens de hambúrger serão gerados aqui -->
-            </div>
-            <div id="sobremesas" class="category">
-                <h2>Sobremesas</h2>
-                <!-- Itens de sobremesas serão gerados aqui -->
-            </div>
-            <div id="bebidas" class="category">
-                <h2>Bebidas</h2>
-                <!-- Itens de bebidas serão gerados aqui -->
-            </div>
-            <div id="adicional" class="category">
-                <h2>adicional</h2>
-                <!-- Itens de adicionais serão gerados aqui -->
-            </div>
-            <div id="menus" class="category">
-                <h2>Menus</h2>
-                <!-- Itens de menus serão gerados aqui -->
-            </div>
-        </section>
-        <section id="delivery">
-            <h2>Escolha o método de entrega</h2>
-            <div class="delivery-options">
-                <label class="delivery-option">
-                    <input type="radio" name="delivery" value="store" checked>
-                    <span>Levantada na loja</span>
-                </label>
-                <label class="delivery-option">
-                    <input type="radio" name="delivery" value="home">
-                    <span>Entrega no domicílio (+$100.00)</span>
-                </label>
-            </div>
-        </section>
-        <section id="total">
-            <p>Subtotal: <span id="subtotal-amount">$0.00</span></p>
-            <p>Taxa de entrega: <span id="delivery-fee">$0.00</span></p>
-            <p>Total do seu pedido: <span id="total-amount">$0.00</span></p>
-        </section>
+        <div class="main-content">
+            <header>
+                <h1>Up-N-Atom</h1>
+                <div class="header-decoration">
+                    <img src="[invalid url, do not cite]" alt="Logo" class="header-logo">
+                </div>
+            </header>
+
+            <section id="menu">
+                <!-- Menu items will be dynamically added here by JavaScript -->
+            </section>
+
+            <section id="delivery">
+                <h2>Escolha o método de entrega</h2>
+                <div class="delivery-options">
+                    <label class="delivery-option">
+                        <input type="radio" name="delivery" value="pickup" checked> Levantada na loja
+                    </label>
+                    <label class="delivery-option">
+                        <input type="radio" name="delivery" value="home"> Entrega no domicílio (+$100.00)
+                    </label>
+                </div>
+            </section>
+
+            <section id="total">
+                <p>Subtotal: <span id="subtotal-amount">$0.00</span></p>
+                <p>Taxa de entrega: <span id="delivery-fee">$0.00</span></p>
+                <p>Total do seu pedido: <span id="total-amount">$0.00</span></p>
+            </section>
+        </div>
+
+        <aside class="sidebar">
+            <h2>Ingredientes Necessários</h2>
+            <div id="ingredients-list"></div>
+            <h2>Preço Final</h2>
+            <p id="sidebar-total">$0.00</p>
+            <button id="reset-button">Reset</button>
+        </aside>
+
         <footer>
-            <p>&copy; 2025 Up-N-Atom. Todos os direitos reservados.</p>
+            <p>© 2025 Up-N-Atom. Todos os direitos reservados.</p>
         </footer>
     </div>
+
     <script src="script.js"></script>
 </body>
-<header>
-    <h1>Up-N-Atom</h1>
-    <img src="https://i.ibb.co/kVNQHmZv/onde-nos-encontrar.png" alt="Onde nos encontrar?" style="width: 1920px; height: 1080px;">
-    <div class="header-decoration"></div>
-</header>
 </html>
