@@ -8,7 +8,7 @@ const menuItems = {
     sobremesas: [
         { name: "Waffle Baunilha", description: "Gelado de Morango, Leite, Ovos, Bolacha, Farinha", price: 70, image: "https://png.pngtree.com/png-clipart/20250108/original/pngtree-cartoon-waffle-dessert-png-file-png-image_12999345.png" },
         { name: "Cheesecake Morango", description: "Leite, Bolacha, Açúcar, Morango", price: 60, image: "https://png.pngtree.com/png-clipart/20250207/original/pngtree-slice-of-cheesecake-with-red-strawberry-topping-isolated-on-transparent-background-png-image_20378669.png" },
-        { name: "Gelado Cookies e Manga", description: "Gelado de Morango, Bolacha, Morango", price: 60, image: "https://png.pngtree.com/png-vector/20240801/ourmid/pngtree-delicious-cookies-and-cream-recipes-to-try-at-home-png-image_13324400.png]" },
+        { name: "Gelado Cookies e Manga", description: "Gelado de Morango, Bolacha, Morango", price: 60, image: https://www.pngarts.com/files/1/Wafer-Ice-Cream-Transparent-Image.png" },
     ],
     bebidas: [
         { name: "Cola", description: "Café, Gelo, Gasosa, Limão, Açúcar", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
