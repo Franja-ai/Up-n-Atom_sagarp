@@ -8,7 +8,7 @@ const menuItems = {
     sobremesas: [
         { name: "Waffle Baunilha", description: "Gelado de Morango, Leite, Ovos, Bolacha, Farinha", price: 70, image: "https://png.pngtree.com/png-clipart/20250108/original/pngtree-cartoon-waffle-dessert-png-file-png-image_12999345.png" },
         { name: "Cheesecake Morango", description: "Leite, Bolacha, Açúcar, Morango", price: 60, image: "https://png.pngtree.com/png-clipart/20250207/original/pngtree-slice-of-cheesecake-with-red-strawberry-topping-isolated-on-transparent-background-png-image_20378669.png" },
-        { name: "Gelado Cookies e Manga", description: "Gelado de Morango, Bolacha, Morango", price: 60, image: https://www.pngarts.com/files/1/Wafer-Ice-Cream-Transparent-Image.png" },
+        { name: "Gelado Cookies e Manga", description: "Gelado de Morango, Bolacha, Morango", price: 60, image: "https://www.pngarts.com/files/1/Wafer-Ice-Cream-Transparent-Image.png" },
     ],
     bebidas: [
         { name: "Cola", description: "Café, Gelo, Gasosa, Limão, Açúcar", price: 60, image: "https://images.seeklogo.com/logo-png/27/2/coca-cola-logo-png_seeklogo-276333.png" },
@@ -18,7 +18,7 @@ const menuItems = {
     ],
     adicional: [
         { name: "Atomic Fries", description: "Batata, Sal", price: 50, image: "https://png.pngtree.com/element_pic/00/16/08/0657a4e9b377d0d.png" }, 
-        { name: "Up 'n' Nuggets", description: "Molho Cocktail, Asinha de Frango", price: 50, image: "https://png.pngtree.com/png-clipart/20250515/original/pngtree-fried-chicken-nuggets-in-red-white-striped-box-isolated-vector-illustration-png-image_20984324.pnghttps://png.pngtree.com/png-clipart/20250515/original/pngtree-fried-chicken-nuggets-in-red-white-striped-box-isolated-vector-illustration-png-image_20984324.png" },
+        { name: "Up 'n' Nuggets", description: "Molho Cocktail, Asinha de Frango", price: 50, image: "https://static.vecteezy.com/system/resources/thumbnails/027/308/916/small_2x/chicken-nugget-with-ai-generated-free-png.png" },
         { name: "Onion Rings", description: "Cebola, Farinha, Óleo", price: 50, image: "https://imagensempng.com.br/wp-content/uploads/2021/08/05-29.png" },
     ],
     menus: [
