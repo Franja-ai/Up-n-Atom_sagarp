@@ -3,7 +3,7 @@ const menuItems = {
         { name: "Smoke 'n' Crunch", description: "Bacon, Hambúrguer de Frango, Pão de Hambúrguer, Cheddar, Carne de Porco, Molho Cocktail", price: 120, image: "https://images.vexels.com/media/users/3/152411/isolated/preview/4a22d435331dde73ae0f1cebbdbaacff-icone-de-hamburguer-duplo.png" },
         { name: "Golden Cruncher", description: "Cebola, Pepino, Hambúrguer de Frango, Alface, Cheddar, Pão de Hambúrguer", price: 110, image: "https://static.vecteezy.com/system/resources/previews/050/142/966/non_2x/cartoon-style-3d-chicken-burger-icon-isolated-on-transparent-background-cutout-png.png" },
         { name: "Green Reactortor", description: "Cebola, Pepino, Abacate, Molho Cocktail, Alface, Pão de Hambúrguer", price: 110, image: "https://png.pngtree.com/png-clipart/20241230/original/pngtree-3d-vegan-burger-with-avocado-on-transparent-background-png-image_18283109.png" },
-        { name: "Double Boom", description: "Cebola, Pepino, Hambúrguer de Frango, Alface, Cheddar, Pão de Hambúrguer", price: 90, image: "https://png.pngtree.com/png-clipart/20250514/original/pngtree-double-cheeseburger-with-lettuce-and-tomato-png-image_20958735.png]" },
+        { name: "Double Boom", description: "Cebola, Pepino, Hambúrguer de Frango, Alface, Cheddar, Pão de Hambúrguer", price: 90, image: "https://static.vecteezy.com/system/resources/previews/027/145/340/non_2x/delicious-double-size-burger-isolated-on-transparent-background-png.png" },
     ],
     sobremesas: [
         { name: "Waffle Baunilha", description: "Gelado de Morango, Leite, Ovos, Bolacha, Farinha", price: 70, image: "https://png.pngtree.com/png-clipart/20250108/original/pngtree-cartoon-waffle-dessert-png-file-png-image_12999345.png" },
